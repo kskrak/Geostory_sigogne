@@ -16,6 +16,6 @@ Start the development application locally:
 
 `npm start`
 
-The application runs at `http://localhost:8081` afterwards.
+The application runs at `http://localhost:8080/mapStoreTest/#/` afterwards.
 
 Read more on the [wiki](https://github.com/metourneau/MapStoreTest.git/wiki).
